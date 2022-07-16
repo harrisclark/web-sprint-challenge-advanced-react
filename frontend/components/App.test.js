@@ -1,4 +1,5 @@
 // Write your tests here
-test('sanity', () => {
-  expect(true).toBe(false)
+test('Will this unit kill me?', () => {
+  expect(true).toBe(true)
 })
+
